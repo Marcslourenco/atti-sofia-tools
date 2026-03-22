@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.0.0
+python-dotenv==1.0.0
+torch==2.0.1
+numpy==1.24.3
+pandas==2.0.3
+beautifulsoup4==4.12.2
+requests==2.31.0
+playwright==1.40.0
+PyPDF2==3.17.0
+chromadb==0.4.24
+sentence-transformers==2.2.2
+xtts-v2==0.0.1
+liveportrait==1.0.0
